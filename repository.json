@@ -3,11 +3,15 @@
   "gitHubUrl": "ttps://github.com/alan967392",
   "packages": [
     {
-      "id": "5f18e4bb-c50a-410b-bb56-43ad4f44b050",
+      "id": "f2e43bf8-ad46-4d60-8edb-e322c0827166",
       "name": "Simple Switch On Timer",
       "category": "Convenience",
       "location": "https://raw.githubusercontent.com/alan967392/Simple-Switch-On-Timer/main/packageManifest.json",
-      "description": "Turns on devices when they are detected as off after a timer"
+      "description": "Turns on devices when they are detected as off after a timer",
+      "tags": [
+        "Lights & Switches",
+		"Timers"
+      ]
     }
   ]
 }
