@@ -1,4 +1,13 @@
 {
   "author": "Alan Eisen",
-  "gitHubUrl": "ttps://github.com/alan967392"
+  "gitHubUrl": "ttps://github.com/alan967392",
+  "packages": [
+    {
+      "id": "5f18e4bb-c50a-410b-bb56-43ad4f44b050",
+      "name": "Simple Switch On Timer",
+      "category": "Convenience",
+      "location": "https://raw.githubusercontent.com/alan967392/Simple-Switch-On-Timer/main/packageManifest.json",
+      "description": "Turns on devices when they are detected as off after a timer"
+    }
+  ]
 }
