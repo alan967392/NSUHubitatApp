@@ -1,2 +1,2 @@
-# NSUHubitatAppsp
-"Not So Useful" Hubitat Apps
+# NSUHubitatDrivers
+"Not So Useful" Hubitat Apps/Driver
